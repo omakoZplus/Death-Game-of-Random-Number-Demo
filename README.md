@@ -8,10 +8,14 @@ Here are some screenshots of the game:
 
 It is yet still as a demo, but try it out, make changes or create your own version of it, by the way if you want to know the music of the game here with some of the background music I used:
 
-Background.mp3 - Dead Silence Theme Song or Soundtrack
-so good.mp3 - Parasyte the Maxim OST - Next to You 
-sad.mp3 - "MELANCHOLIA" Music Box |Sad, creepy song|
-snake.mp3 - Jeff The Killer Theme Song (Piano Version) Sweet Dreams Are Made Of Screams
-warning.mp3 - Nathan Larson Avival Pastoral Extend
+Background.mp3 = Dead Silence Theme Song or Soundtrack
+
+so good.mp3 = Parasyte the Maxim OST - Next to You 
+
+sad.mp3 = "MELANCHOLIA" Music Box |Sad, creepy song|
+
+snake.mp3 = Jeff The Killer Theme Song (Piano Version) Sweet Dreams Are Made Of Screams
+
+warning.mp3 = Nathan Larson Avival Pastoral Extend
 
 This is all enjooy!! WAHHAHAHAHAHHAAH!
